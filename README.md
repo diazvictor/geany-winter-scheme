@@ -1,2 +1,2 @@
 # Geany light Winter scheme
-A simple light schema for Geany IDE
+Un simple esquema claro para Geany IDE
