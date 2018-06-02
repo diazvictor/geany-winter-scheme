@@ -1,4 +1,4 @@
-# Geany light Winter scheme
+# Geany Winter scheme
 Un simple esquema claro para Geany IDE
 
 ## Descargar e Instalar
